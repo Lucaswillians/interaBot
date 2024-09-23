@@ -27,6 +27,6 @@ Este é um projeto de chatbot simples, desenvolvido com **React** e **Vite**, qu
 
    ```bash
    git clone https://github.com/Lucaswillians/interaBot
-   cd ChatGPTinho
+   cd interaBot
    npm i || yarn
    npm run dev || yarn dev 
